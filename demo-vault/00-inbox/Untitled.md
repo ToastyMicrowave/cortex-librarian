@@ -1,0 +1,4 @@
+- buy batteries
+- does the multimeter need a new fuse?
+- reply to the landlord
+- check if the library has the Arduino book

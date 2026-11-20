@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.obsidian/
+# files the Librarian writes when run against the demo vault
+demo-vault/30-agents/handoffs/
+demo-vault/30-agents/librarian-state.json
+demo-vault/30-agents/log.md
+demo-vault/90-private/_librarian/

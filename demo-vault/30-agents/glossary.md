@@ -1,0 +1,4 @@
+- The Anchor = the café where I work weekend shifts.
+- Rover / the rover = my robot rover project. The current build is v1. "v2" only means notes about a future version.
+- H-bridge = the motor driver circuit that lets a DC motor run both ways.
+- Corsa = my car.
